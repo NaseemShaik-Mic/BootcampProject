@@ -29,3 +29,9 @@ To create a decentralized, transparent, and scalable solution for managing libra
 ![transcation1](https://github.com/user-attachments/assets/41a87bfd-9f69-4a81-820c-90e2b0e13c57)
 
 > Dashboard view where users can borrow or return books using their Aptos wallet.
+<img width="1362" height="639" alt="image" src="https://github.com/user-attachments/assets/ac689e74-4a2d-4575-86f3-7de6911f5858" />
+<img width="1362" height="636" alt="image" src="https://github.com/user-attachments/assets/6acacafc-7e3f-496a-9741-0ecab53e1043" />
+<img width="1018" height="622" alt="image" src="https://github.com/user-attachments/assets/0684226f-d86d-4493-8f89-cbf7a981dbdb" />
+
+
+
