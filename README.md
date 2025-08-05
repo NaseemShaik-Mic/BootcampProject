@@ -26,5 +26,6 @@ To create a decentralized, transparent, and scalable solution for managing libra
 - 📱 Mobile-friendly frontend for accessibility
 
 ## ⭐ Screenshot
-./assets/transcation1.jpg
+![transcation1](https://github.com/user-attachments/assets/41a87bfd-9f69-4a81-820c-90e2b0e13c57)
+
 > Dashboard view where users can borrow or return books using their Aptos wallet.
